@@ -48,6 +48,8 @@ Transactions – records all sales
 •	Database Journal SQL Analytics 
 •	Rwanda Coffee Industry Reports
 
+All sources were properly cited. Implementations and analysis represent original work. No AI-
+generated content was copied without attribution or adaptation.
 
 
 
